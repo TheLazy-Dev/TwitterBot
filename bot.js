@@ -1,10 +1,10 @@
 require('dotenv').config()
 const config = require('./config');
-const twit = require('./Twit');
-const T = new twit(config);
+const Twit = require('Twit');
+const T = new Twit(config);
 
 let params = {
-    q: '#Denishs bot'
+    q: '#TODO'
 }
 
 function retweet() {
@@ -33,9 +33,9 @@ function searchTweets(params) {
 function postTweet(retweetId) {
     T.post('statuses/retweet/:id',{
         id: retweetId
-    },responded(ree,response))
+    },responded(postTweet,responded))
 }
-setInterval(postTweet,20000)
+setInterval(postTweet,2000)
 
 function responded(err,response) {
     if(response)
