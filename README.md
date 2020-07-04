@@ -9,7 +9,7 @@
 - [Twit v2.2.1 or above](https://www.npmjs.com/package/twit)
 
 # How to execute on your system:
-- Download all the dependencies
+- Download all the [dependencies](https://github.com/sparkcoder157/TwitterBot/blob/master/README.md#dependencies)
 - [Apply for Twitter Developer account](https://developer.twitter.com/en)
 - [Get your keys](https://developer.twitter.com/en/apps)
 - Add the keys to ./config.js
