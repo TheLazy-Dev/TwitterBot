@@ -3,9 +3,9 @@
 -For live check you can use "#DenishsBot" for a free retweet.
 # Dependencies
 **Packages**: 
-- [Node.js v10.0 or above] (https://nodejs.org/en/download/)
-- [Surge v0.2.3 or above] (https://www.npmjs.com/package/surge)
-- [Twit v2.2.1 or above] (https://www.npmjs.com/package/twit)
+- [Node.js v10.0 or above](https://nodejs.org/en/download/)
+- [Surge v0.2.3 or above](https://www.npmjs.com/package/surge)
+- [Twit v2.2.1 or above](https://www.npmjs.com/package/twit)
 
 # How to execute on your system:
 - Download all the dependencies
