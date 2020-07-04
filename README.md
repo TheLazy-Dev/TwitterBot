@@ -1,7 +1,8 @@
 # TwitterBot
 ## Note
-run npm install --save twit
+Go to directory
+--> run npm install --save twit
 
-Change Keys according to user manager
+--> Change Keys according to user manager
 
-run node bot.js
+--> run node bot.js
