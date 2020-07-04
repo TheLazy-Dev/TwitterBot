@@ -9,4 +9,4 @@ Go to directory
 
 ##Big Thanks
 
-Biggest Thanks to (Vrishab Jain(Check him out))[https://github.com/dragoFireup]
+Biggest Thanks to [Vrishab Jain(Check him out)](https://github.com/dragoFireup)
