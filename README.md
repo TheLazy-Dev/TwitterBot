@@ -7,6 +7,6 @@ Go to directory
 
 --> run node bot.js
 
-##Big Thanks
+## Big Thanks
 
 Biggest Thanks to [Vrishab Jain(Check him out)](https://github.com/dragoFireup)
