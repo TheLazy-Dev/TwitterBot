@@ -1,6 +1,6 @@
-  <center>
+  <p align=center>
     <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"/>
-  </center>
+  </p>
 # TwitterBot
 - ReTweet a specific tweleb hashtag.
 - For live check you can use "#DenishsBot" for a free retweet.
