@@ -23,8 +23,9 @@
 - Download all the [dependencies](https://github.com/sparkcoder157/TwitterBot/blob/master/README.md#dependencies)
 - [Apply for Twitter Developer account](https://developer.twitter.com/en)
 - [Get your keys](https://developer.twitter.com/en/apps)
-- Add the keys to ./config.js
+- Add the keys to `./config.js'
 - Add the trigger to line 7 in [bot.js](https://github.com/sparkcoder157/TwitterBot/blob/master/bot.js)
+- Run the file with `node bot.js`
 
 ## Contributors
 - Biggest Thanks to [Vrishab Jain(Check him out)](https://github.com/dragoFireup)
